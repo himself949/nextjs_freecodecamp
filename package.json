@@ -1,0 +1,27 @@
+{
+  "name": "nextjs_freecodecamp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/himself949/nextjs_freecodecamp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/himself949/nextjs_freecodecamp/issues"
+  },
+  "homepage": "https://github.com/himself949/nextjs_freecodecamp#readme",
+  "dependencies": {
+    "next": "^13.0.5",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
